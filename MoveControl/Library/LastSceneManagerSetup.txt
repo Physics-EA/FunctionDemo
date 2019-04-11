@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Fun06/Fun06.unity
+  isLoaded: 1
+  isActive: 1

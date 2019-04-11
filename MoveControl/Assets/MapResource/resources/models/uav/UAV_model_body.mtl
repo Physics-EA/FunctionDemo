@@ -1,0 +1,128 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# 创建的文件:12.06.2017 18:40:54
+
+newmtl UAV_whitemaps
+	Ns 40.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.5490 0.5490 0.5490
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\UAV_whitemaps.jpg
+	map_Kd maps\UAV_whitemaps.jpg
+
+newmtl UAV_blackmaps_dc
+	Ns 17.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.7110 0.7110 0.7110
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\UAV_blackmaps_dc.jpg
+	map_Kd maps\UAV_blackmaps_dc.jpg
+
+newmtl UAV_silvermaps
+	Ns 21.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.7470 0.7470 0.7470
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\UAV_silvermaps.jpg
+	map_Kd maps\UAV_silvermaps.jpg
+
+newmtl UAV_yellowmaps
+	Ns 41.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.6930 0.6930 0.6930
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\UAV_yellowmaps.jpg
+	map_Kd maps\UAV_yellowmaps.jpg
+
+newmtl UAV_bluemaps
+	Ns 36.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0118 0.2353
+	Kd 0.0000 0.0118 0.2353
+	Ks 0.8190 0.8190 0.8190
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\UAV_bluemaps.jpg
+	map_Kd maps\UAV_bluemaps.jpg
+
+newmtl UAV_redmaps
+	Ns 26.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.8010 0.8010 0.8010
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\UAV_redmaps.jpg
+	map_Kd maps\UAV_redmaps.jpg
+
+newmtl UAV_maps_dc
+	Ns 39.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.5400 0.5400 0.5400
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\UAV_maps_dc.jpg
+	map_Kd maps\UAV_maps_dc.jpg
+
+newmtl UAV_cameramaps
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\UAV_cameramaps.jpg
+	map_Kd maps\UAV_cameramaps.jpg
+
+newmtl UAV_blmaps
+	Ns 10.0000
+	Ni 1.5000
+	d 0.1500
+	Tr 0.8500
+	Tf 0.1500 0.1500 0.1500 
+	illum 2
+	Ka 0.5725 0.5765 0.6118
+	Kd 0.5725 0.5765 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\UAV_blmaps.jpg
+	map_Kd maps\UAV_blmaps.jpg
